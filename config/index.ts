@@ -1,10 +1,10 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = '9c8d767f-3088-481c-b9f4-6ebecf3a566a'
-export const API_KEY = 'app-j47ksUlx3AdbeOZhCm9VwEch'
+export const APP_ID = '2052e481-26d4-4ce4-acf1-3ea4f50d3019'
+export const API_KEY = 'app-D4q0C6IYIUPEUFgSFZidtbgB'
 export const API_URL = 'http://43.128.108.81/v1'
 export const APP_INFO: AppInfo = {
   title: 'MedAsk',
-  description: 'App description',
+  description: '蓝皮书助手',
   copyright: '',
   privacy_policy: '',
   default_language: 'zh-Hans',
